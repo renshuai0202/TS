@@ -24,3 +24,6 @@ TypeScript 为 JavaScript 添加类型标注
     * ?
     * readonly
   * type
+
+# 学习网站：前端修炼小册
+https://fedbook.cn/frontend-knowledge/typescript/
